@@ -3,7 +3,7 @@
     <title>fine art portfolio</title>
     <link href="https://yaleh.ca/feed.xml" rel="self" />
     <link href="https://yaleh.ca" />
-    <updated>2026-10-27T14:54:19-04:00</updated>
+    <updated>2026-10-27T15:04:50-04:00</updated>
     <author>
         <name>yaleh</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://yaleh.ca/runners/"/>
         <id>https://yaleh.ca/runners/</id>
+        <media:content url="https://yaleh.ca/media/posts/1/Runners.jpg" medium="image" />
 
         <updated>2026-10-27T14:54:19-04:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://yaleh.ca/media/posts/1/Runners.jpg" alt="" />
                     "Runners" 2026, detail. Acrylic on paper. "Runners" 2026, detail. Acrylic on paper.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://yaleh.ca/media/posts/1/Runners.jpg" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
