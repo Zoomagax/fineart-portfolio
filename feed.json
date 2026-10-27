@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "fine art portfolio",
     "description": "",
-    "home_page_url": "https://Zoomagax.github.io/fineart-portfolio",
-    "feed_url": "https://Zoomagax.github.io/fineart-portfolio/feed.json",
+    "home_page_url": "https://yaleh.ca",
+    "feed_url": "https://yaleh.ca/feed.json",
     "user_comment": "",
     "author": {
         "name": "yaleh"
