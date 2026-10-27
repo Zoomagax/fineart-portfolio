@@ -3,10 +3,50 @@
     <title>fine art portfolio</title>
     <link href="https://yaleh.ca/feed.xml" rel="self" />
     <link href="https://yaleh.ca" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2026-10-27T14:54:19-04:00</updated>
     <author>
         <name>yaleh</name>
     </author>
     <id>https://yaleh.ca</id>
 
+    <entry>
+        <title>Runners</title>
+        <author>
+            <name>yaleh</name>
+        </author>
+        <link href="https://yaleh.ca/runners/"/>
+        <id>https://yaleh.ca/runners/</id>
+
+        <updated>2026-10-27T14:54:19-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    "Runners" 2026, detail. Acrylic on paper. "Runners" 2026, detail. Acrylic on paper.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://yaleh.ca/media/posts/1/gallery/Runners_detail_2.jpg" data-size="1252x1252">
+        <img loading="lazy" src="https://yaleh.ca/media/posts/1/gallery/Runners_detail_2-thumbnail.jpg" height="768" width="768" alt="" >
+      </a>
+      <figcaption>"Runners" 2026, detail. Acrylic on paper.</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://yaleh.ca/media/posts/1/gallery/Runners_detail_1.jpg" data-size="1252x1252">
+        <img loading="lazy" src="https://yaleh.ca/media/posts/1/gallery/Runners_detail_1-thumbnail.jpg" height="768" width="768" alt="" >
+      </a>
+      <figcaption>"Runners" 2026, detail. Acrylic on paper.</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://yaleh.ca/media/posts/1/gallery/Runners.jpg" data-size="3147x2388">
+        <img loading="lazy" src="https://yaleh.ca/media/posts/1/gallery/Runners-thumbnail.jpg" height="583" width="768" alt="" >
+      </a>
+      <figcaption>"Runners" 2026,  Acrylic on paper.</figcaption>
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
 </feed>

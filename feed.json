@@ -9,5 +9,19 @@
         "name": "yaleh"
     },
     "items": [
+        {
+            "id": "https://yaleh.ca/runners/",
+            "url": "https://yaleh.ca/runners/",
+            "title": "Runners",
+            "summary": "\"Runners\" 2026, detail. Acrylic on paper. \"Runners\" 2026, detail. Acrylic on paper.",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://yaleh.ca/media/posts/1/gallery/Runners_detail_2.jpg\" data-size=\"1252x1252\">\n        <img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/1/gallery/Runners_detail_2-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      <figcaption>\"Runners\" 2026, detail. Acrylic on paper.</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://yaleh.ca/media/posts/1/gallery/Runners_detail_1.jpg\" data-size=\"1252x1252\">\n        <img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/1/gallery/Runners_detail_1-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      <figcaption>\"Runners\" 2026, detail. Acrylic on paper.</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://yaleh.ca/media/posts/1/gallery/Runners.jpg\" data-size=\"3147x2388\">\n        <img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/1/gallery/Runners-thumbnail.jpg\" height=\"583\" width=\"768\" alt=\"\" >\n      </a>\n      <figcaption>\"Runners\" 2026,  Acrylic on paper.</figcaption>\n    </figure>\n    </div>\n  </div>",
+            "author": {
+                "name": "yaleh"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T14:54:19-04:00",
+            "date_modified": "2026-10-27T14:54:19-04:00"
+        }
     ]
 }
