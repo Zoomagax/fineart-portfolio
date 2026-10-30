@@ -3,7 +3,7 @@
     <title>fine art portfolio</title>
     <link href="https://yaleh.ca/feed.xml" rel="self" />
     <link href="https://yaleh.ca" />
-    <updated>2026-10-30T14:25:58-04:00</updated>
+    <updated>2026-10-30T14:28:37-04:00</updated>
     <author>
         <name>yaleh</name>
     </author>
@@ -19,8 +19,22 @@
         <media:content url="https://yaleh.ca/media/posts/2/bouquet_06.jpg" medium="image" />
 
         <updated>2026-10-30T14:25:58-04:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://yaleh.ca/media/posts/2/bouquet_06.jpg" alt="" />
+                    "Bouquet" 2026 acrylic on paper
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://yaleh.ca/media/posts/2/bouquet_06.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
+<figure class="gallery__item"><a href="https://yaleh.ca/media/posts/2/gallery/bouquet_06.jpg" data-size="6228x4948"><img loading="lazy" src="https://yaleh.ca/media/posts/2/gallery/bouquet_06-thumbnail.jpg" alt="" width="768" height="610"></a>
+<figcaption>"Bouquet" 2026 acrylic on paper</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Runners</title>

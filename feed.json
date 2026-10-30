@@ -13,6 +13,8 @@
             "id": "https://yaleh.ca/bouquet/",
             "url": "https://yaleh.ca/bouquet/",
             "title": "Bouquet",
+            "summary": "\"Bouquet\" 2026 acrylic on paper",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"3\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/2/gallery/bouquet_06.jpg\" data-size=\"6228x4948\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/2/gallery/bouquet_06-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"610\"></a>\n<figcaption>\"Bouquet\" 2026 acrylic on paper</figcaption>\n</figure>\n</div></div>",
             "image": "https://yaleh.ca/media/posts/2/bouquet_06.jpg",
             "author": {
                 "name": "yaleh"
@@ -20,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2026-10-30T14:25:58-04:00",
-            "date_modified": "2026-10-30T14:25:58-04:00"
+            "date_modified": "2026-10-30T14:28:37-04:00"
         },
         {
             "id": "https://yaleh.ca/runners/",
