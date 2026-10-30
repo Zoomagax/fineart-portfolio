@@ -3,12 +3,39 @@
     <title>YALEH ZAN PAXTON -HARDING</title>
     <link href="https://yaleh.ca/feed.xml" rel="self" />
     <link href="https://yaleh.ca" />
-    <updated>2026-10-30T15:04:49-04:00</updated>
+    <updated>2026-10-30T15:34:19-04:00</updated>
     <author>
         <name>yaleh</name>
     </author>
     <id>https://yaleh.ca</id>
 
+    <entry>
+        <title>sculpture</title>
+        <author>
+            <name>yaleh</name>
+        </author>
+        <link href="https://yaleh.ca/sculpture/"/>
+        <id>https://yaleh.ca/sculpture/</id>
+        <media:content url="https://yaleh.ca/media/posts/5/sculpture_009.jpg" medium="image" />
+
+        <updated>2026-10-30T15:33:10-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://yaleh.ca/media/posts/5/sculpture_009.jpg" alt="" />
+                    "Flesh for Fantasy" 1995 marble and bronze
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://yaleh.ca/media/posts/5/sculpture_009.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
+<figure class="gallery__item"><a href="https://yaleh.ca/media/posts/5/gallery/sculpture_013.jpg" data-size="500x771"><img loading="lazy" src="https://yaleh.ca/media/posts/5/gallery/sculpture_013-thumbnail.jpg" alt="" width="500" height="771"></a>
+<figcaption>"Flesh for Fantasy" 1995 marble and bronze</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>painting</title>
         <author>

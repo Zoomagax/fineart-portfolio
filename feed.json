@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://yaleh.ca/sculpture/",
+            "url": "https://yaleh.ca/sculpture/",
+            "title": "sculpture",
+            "summary": "\"Flesh for Fantasy\" 1995 marble and bronze",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"3\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/5/gallery/sculpture_013.jpg\" data-size=\"500x771\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/5/gallery/sculpture_013-thumbnail.jpg\" alt=\"\" width=\"500\" height=\"771\"></a>\n<figcaption>\"Flesh for Fantasy\" 1995 marble and bronze</figcaption>\n</figure>\n</div></div>",
+            "image": "https://yaleh.ca/media/posts/5/sculpture_009.jpg",
+            "author": {
+                "name": "yaleh"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-30T15:33:10-04:00",
+            "date_modified": "2026-10-30T15:34:19-04:00"
+        },
+        {
             "id": "https://yaleh.ca/painting/",
             "url": "https://yaleh.ca/painting/",
             "title": "painting",
