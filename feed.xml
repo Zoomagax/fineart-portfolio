@@ -3,79 +3,36 @@
     <title>fine art portfolio</title>
     <link href="https://yaleh.ca/feed.xml" rel="self" />
     <link href="https://yaleh.ca" />
-    <updated>2026-10-30T14:28:37-04:00</updated>
+    <updated>2026-10-30T15:04:49-04:00</updated>
     <author>
         <name>yaleh</name>
     </author>
     <id>https://yaleh.ca</id>
 
     <entry>
-        <title>Bouquet</title>
+        <title>painting</title>
         <author>
             <name>yaleh</name>
         </author>
-        <link href="https://yaleh.ca/bouquet/"/>
-        <id>https://yaleh.ca/bouquet/</id>
-        <media:content url="https://yaleh.ca/media/posts/2/bouquet_06.jpg" medium="image" />
+        <link href="https://yaleh.ca/painting/"/>
+        <id>https://yaleh.ca/painting/</id>
+        <media:content url="https://yaleh.ca/media/posts/4/Kissers.jpg" medium="image" />
 
-        <updated>2026-10-30T14:25:58-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://yaleh.ca/media/posts/2/bouquet_06.jpg" alt="" />
-                    "Bouquet" 2026 acrylic on paper
-                ]]>
-            </summary>
+        <updated>2026-10-30T14:54:00-04:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://yaleh.ca/media/posts/2/bouquet_06.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://yaleh.ca/media/posts/4/Kissers.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
-<figure class="gallery__item"><a href="https://yaleh.ca/media/posts/2/gallery/bouquet_06.jpg" data-size="6228x4948"><img loading="lazy" src="https://yaleh.ca/media/posts/2/gallery/bouquet_06-thumbnail.jpg" alt="" width="768" height="610"></a>
-<figcaption>"Bouquet" 2026 acrylic on paper</figcaption>
-</figure>
+<figure class="gallery__item"><a href="https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid9.jpg" data-size="6439x4944"><img loading="lazy" src="https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid9-thumbnail.jpg" alt="" width="768" height="590"></a></figure>
+<figure class="gallery__item"><a href="https://yaleh.ca/media/posts/4/gallery/Runners.jpg" data-size="3147x2388"><img loading="lazy" src="https://yaleh.ca/media/posts/4/gallery/Runners-thumbnail.jpg" alt="" width="768" height="583"></a></figure>
+<figure class="gallery__item"><a href="https://yaleh.ca/media/posts/4/gallery/LopEars.jpg" data-size="6295x4906"><img loading="lazy" src="https://yaleh.ca/media/posts/4/gallery/LopEars-thumbnail.jpg" alt="" width="768" height="599"></a></figure>
+<figure class="gallery__item"><a href="https://yaleh.ca/media/posts/4/gallery/FlowersWeeds3.jpg" data-size="6231x4928"><img loading="lazy" src="https://yaleh.ca/media/posts/4/gallery/FlowersWeeds3-thumbnail.jpg" alt="" width="768" height="608"></a></figure>
+<figure class="gallery__item"><a href="https://yaleh.ca/media/posts/4/gallery/bouquet_06.jpg" data-size="6228x4948"><img loading="lazy" src="https://yaleh.ca/media/posts/4/gallery/bouquet_06-thumbnail.jpg" alt="" width="768" height="610"></a></figure>
+<figure class="gallery__item"><a href="https://yaleh.ca/media/posts/4/gallery/Puckers.jpg" data-size="6265x4903"><img loading="lazy" src="https://yaleh.ca/media/posts/4/gallery/Puckers-thumbnail.jpg" alt="" width="768" height="601"></a></figure>
+<figure class="gallery__item"><a href="https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid8.jpg" data-size="6307x4890"><img loading="lazy" src="https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid8-thumbnail.jpg" alt="" width="768" height="595"></a></figure>
+<figure class="gallery__item"><a href="https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid10.jpg" data-size="6377x4930"><img loading="lazy" src="https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid10-thumbnail.jpg" alt="" width="768" height="594"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Runners</title>
-        <author>
-            <name>yaleh</name>
-        </author>
-        <link href="https://yaleh.ca/runners/"/>
-        <id>https://yaleh.ca/runners/</id>
-        <media:content url="https://yaleh.ca/media/posts/1/Runners.jpg" medium="image" />
-
-        <updated>2026-10-27T14:54:19-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://yaleh.ca/media/posts/1/Runners.jpg" alt="" />
-                    "Runners" 2026, detail. Acrylic on paper. "Runners" 2026, detail. Acrylic on paper.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://yaleh.ca/media/posts/1/Runners.jpg" class="type:primaryImage" alt="" /></p>
-                
-  <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://yaleh.ca/media/posts/1/gallery/Runners_detail_2.jpg" data-size="1252x1252">
-        <img loading="lazy" src="https://yaleh.ca/media/posts/1/gallery/Runners_detail_2-thumbnail.jpg" height="768" width="768" alt="" >
-      </a>
-      <figcaption>"Runners" 2026, detail. Acrylic on paper.</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://yaleh.ca/media/posts/1/gallery/Runners_detail_1.jpg" data-size="1252x1252">
-        <img loading="lazy" src="https://yaleh.ca/media/posts/1/gallery/Runners_detail_1-thumbnail.jpg" height="768" width="768" alt="" >
-      </a>
-      <figcaption>"Runners" 2026, detail. Acrylic on paper.</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://yaleh.ca/media/posts/1/gallery/Runners.jpg" data-size="3147x2388">
-        <img loading="lazy" src="https://yaleh.ca/media/posts/1/gallery/Runners-thumbnail.jpg" height="583" width="768" alt="" >
-      </a>
-      <figcaption>"Runners" 2026,  Acrylic on paper.</figcaption>
-    </figure>
-    </div>
-  </div>
             ]]>
         </content>
     </entry>
