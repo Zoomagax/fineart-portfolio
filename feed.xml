@@ -3,12 +3,25 @@
     <title>fine art portfolio</title>
     <link href="https://yaleh.ca/feed.xml" rel="self" />
     <link href="https://yaleh.ca" />
-    <updated>2026-10-27T15:04:50-04:00</updated>
+    <updated>2026-10-30T14:25:58-04:00</updated>
     <author>
         <name>yaleh</name>
     </author>
     <id>https://yaleh.ca</id>
 
+    <entry>
+        <title>Bouquet</title>
+        <author>
+            <name>yaleh</name>
+        </author>
+        <link href="https://yaleh.ca/bouquet/"/>
+        <id>https://yaleh.ca/bouquet/</id>
+        <media:content url="https://yaleh.ca/media/posts/2/bouquet_06.jpg" medium="image" />
+
+        <updated>2026-10-30T14:25:58-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Runners</title>
         <author>
