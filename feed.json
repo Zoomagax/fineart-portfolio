@@ -10,25 +10,11 @@
     },
     "items": [
         {
-            "id": "https://yaleh.ca/sculpture/",
-            "url": "https://yaleh.ca/sculpture/",
-            "title": "sculpture",
-            "summary": "\"Flesh For Fantasy\" 1995, marble and bronze",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"3\" data-is-empty=\"false\">\n<h6 class=\"gallery__item\"><a href=\"undefined\" data-size=\"undefined\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/5/gallery/sculpture_013-thumbnail.jpg\" alt=\"\" width=\"500\" height=\"771\"></a>\"Flesh For Fantasy\" 1995, marble and bronze</h6>\n</div></div>",
-            "image": "https://yaleh.ca/media/posts/5/sculpture_009.jpg",
-            "author": {
-                "name": "yaleh"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-10-30T15:33:10-04:00",
-            "date_modified": "2026-11-01T21:23:03-05:00"
-        },
-        {
             "id": "https://yaleh.ca/painting/",
             "url": "https://yaleh.ca/painting/",
             "title": "painting",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"3\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid9.jpg\" data-size=\"6439x4944\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid9-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"590\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/Runners.jpg\" data-size=\"3147x2388\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/Runners-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"583\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/LopEars.jpg\" data-size=\"6295x4906\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/LopEars-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"599\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/FlowersWeeds3.jpg\" data-size=\"6231x4928\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/FlowersWeeds3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"608\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/bouquet_06.jpg\" data-size=\"6228x4948\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/bouquet_06-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"610\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/Puckers.jpg\" data-size=\"6265x4903\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/Puckers-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"601\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid8.jpg\" data-size=\"6307x4890\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid8-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"595\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid10.jpg\" data-size=\"6377x4930\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid10-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"594\"></a></figure>\n</div></div>",
+            "summary": "\"HeSaidSheSaid\" 2026, acrylic on paper \"LopEars\" 2026, acrylic on paper \"Runners\" 2026,&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"3\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid9.jpg\" data-size=\"6439x4944\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid9-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"590\"></a>\n<figcaption>\"HeSaidSheSaid\" 2026, acrylic on paper</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/LopEars.jpg\" data-size=\"6295x4906\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/LopEars-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"599\"></a>\n<figcaption>\"LopEars\" 2026, acrylic on paper</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/Runners.jpg\" data-size=\"3147x2388\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/Runners-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"583\"></a>\n<figcaption>\"Runners\" 2026, acrylic on paper</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/FlowersWeeds3.jpg\" data-size=\"6231x4928\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/FlowersWeeds3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"608\"></a>\n<figcaption>\"FlowersWeeds\" 2026, acrylic on paper</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/bouquet_06.jpg\" data-size=\"6228x4948\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/bouquet_06-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"610\"></a>\n<figcaption>\"Bouquet\" 2026, acrylic on paper</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/Puckers.jpg\" data-size=\"6265x4903\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/Puckers-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"601\"></a>\n<figcaption>\"Puckers\" 2026, acrylic on paper</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid8.jpg\" data-size=\"6307x4890\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid8-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"595\"></a>\n<figcaption>\"ShootTheShit\" 2026, acrylic on paper</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid10.jpg\" data-size=\"6377x4930\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/HeSaidSheSaid10-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"594\"></a>\n<figcaption>\"HeSaidSheSaid\" 2026, acrylic on paper</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://yaleh.ca/media/posts/4/gallery/Shelli.jpg\" data-size=\"6197x4659\"><img loading=\"lazy\" src=\"https://yaleh.ca/media/posts/4/gallery/Shelli-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"577\"></a>\n<figcaption>\"Shelli\" 2026, acrylic on paper</figcaption>\n</figure>\n</div></div>",
             "image": "https://yaleh.ca/media/posts/4/Kissers.jpg",
             "author": {
                 "name": "yaleh"
@@ -36,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2026-10-30T14:54:00-04:00",
-            "date_modified": "2026-10-30T15:04:49-04:00"
+            "date_modified": "2026-11-03T16:43:23-05:00"
         }
     ]
 }
